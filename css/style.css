@@ -1,0 +1,26 @@
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    height: 100px;
+    background:#2c3e50;
+    align-items: center;
+}
+
+.nav-link, .navbar-brand {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.75rem;
+    font-family: revert;
+}
+
+.nav-link:hover {
+    color: teal;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
